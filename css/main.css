@@ -10,7 +10,7 @@
 html, body {
 	height: 100%;
 	width: 100%;
-	background: linear-gradient(139deg, red, blue, white, red, blue);
+	background: linear-gradient(139deg, #FC0D1B, #FDAB2A, #FEEF35, #2CFD2F, #2BF6FE);
 	background-size: 1000% 1000%;
 	margin: 0 auto;
 	padding: 0;
